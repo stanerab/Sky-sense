@@ -75,4 +75,4 @@ Through this project, I improved my understanding of:
 
 Stanley Erhabor
 
-GitHub: https://github.com/stan/erab
+GitHub: https://github.com/stanerab
