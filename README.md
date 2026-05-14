@@ -31,13 +31,6 @@ https://adhd.infinityfree.me/weather/
 
 I built this project to strengthen my understanding of API integration, asynchronous JavaScript, and dynamic data rendering in frontend applications. It also helped improve my skills in working with real-time external data sources.
 
-## Installation
-
-```bash
-git clone https://github.com/YOUR-USERNAME/weather-map.git
-cd weather-map
-```
-
 ## Usage
 
 The Weather Map App allows users to search for any city and retrieve real-time weather information including temperature, weather conditions, and location-based updates through the OpenWeatherMap API.
