@@ -4,7 +4,7 @@ A responsive weather map web application that provides real-time weather data us
 
 ## Live Demo
 
-https://adhd.infinityfree.me/weather/
+https://skysense.blueprintcaretech.com/
 
 ## Features
 
